@@ -36,6 +36,7 @@
 * `pipenv install python-decouple`
 * Add config information to `settings.py` and `.env`
     
+<!-- commiting to grab on second machine -->
 
 ## Setting up a Virtual Environment
   
